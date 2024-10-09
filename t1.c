@@ -1,6 +1,8 @@
 main()
 {
-add();
+add(){
+printf("Addition");
+}
 sub();
 mul();
 div();
